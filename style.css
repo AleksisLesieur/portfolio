@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+.flex {
+    padding-top: 50px;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-around;
+}
